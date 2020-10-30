@@ -25,6 +25,8 @@ Some examples : [Compile DLL and put inside the "Udrakoloader" folder]
 
 For C# Plugins, you must provide the correct Namespace directory.
 
+![SampleImg](https://i.ibb.co/YLJb3PN/exampletest.png)
+
 In this case Replace ["namespace ExampleProject.Udrakoloader"] with ["namespace <Your Root Namespace Project>.Udrakoloader"]
  
  
