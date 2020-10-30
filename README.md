@@ -14,6 +14,74 @@ Based on [ScriptHookvDotNet](https://github.com/crosire/scripthookvdotnet) and [
 
 - Most of the code is from the SharpNeedle project, Modified with parts of ScriptHookvDotNet for more compatibility.
 
+## How to Install a Plugin?​
+- Extract the Plugin (.dll) into the folder "UdrakoLoader", in the root directory of the game.
+
+## Attention:
+- The .net DLLs must be compiled under the .Net Framework 4.0.
+- The name of the Plugin DLL must be the same as the Root Namespace.
+
+Some examples : [Compile DLL and put inside the "Udrakoloader" folder]
+
+For C# Plugins, you must provide the correct Namespace directory.
+
+In this case Replace ["namespace ExampleProject.Udrakoloader"] with ["namespace <Your Root Namespace Project>.Udrakoloader"]
+ 
+ 
+ - UdrakoLoader C# Plugin Example:
+ ```c#
+// Plugin.cs
+using System;
+using System.Collections.Generic;
+using System.Diagnostics;
+using System.Linq;
+using System.Text;
+using System.Windows.Forms;
+
+namespace ExampleProject.Udrakoloader
+{
+    public class Plugin
+    {
+        public static int EntryPoint(string pwzArgument)
+        {
+            string processName = Process.GetCurrentProcess().ProcessName;
+            MessageBox.Show("C# Example | The current process is " + processName);
+            return 0;
+        }
+    }
+}
+```
+
+ - UdrakoLoader VB Plugin Example:
+ 
+ ```vb
+'Plugin.vb
+Imports System
+Imports System.Collections.Generic
+Imports System.Diagnostics
+Imports System.Linq
+Imports System.Text
+Imports System.Windows.Forms
+Imports System.Reflection
+Imports System.Runtime.CompilerServices
+Imports System.Runtime.InteropServices
+Imports System.Security
+
+Namespace Udrakoloader
+
+    Public Class Plugin
+
+        Public Shared Function EntryPoint(ByVal pwzArgument As String) As Integer
+            Dim processName As String = Process.GetCurrentProcess().ProcessName
+            MessageBox.Show("vb Example | The current process is " & processName)
+            Return 0
+        End Function
+
+    End Class
+
+End Namespace
+```
+
  ## Contributors
 - Destroyer : Mod SharpNeedle Source .  / Discord : Destroyer#8328
 - ChadSki / Usman Sabir : SharpNeedle Source .
