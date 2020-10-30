@@ -2,10 +2,7 @@
 ![passing](https://img.shields.io/badge/build-passing-brightgreen) 
 
 
-<img align="left" width="250" height="250" src="https://i.ibb.co/jrrCpd6/Udraco-Loader.png">
-
-
-
+<img align="left" width="300" height="110" src="https://i.ibb.co/jrrCpd6/Udraco-Loader.png">
 
 ## Introduction
 Udrakoloader is a mod, Currently Compatible With SAMP and HALO [Possibly With many more games]. 
