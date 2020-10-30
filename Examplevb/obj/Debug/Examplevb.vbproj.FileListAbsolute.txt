@@ -1,0 +1,8 @@
+C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Examplevb\bin\Debug\Examplevb.dll
+C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Examplevb\bin\Debug\Examplevb.pdb
+C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Examplevb\bin\Debug\Examplevb.xml
+C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Examplevb\obj\Debug\Examplevb.Resources.resources
+C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Examplevb\obj\Debug\Examplevb.vbproj.GenerateResource.Cache
+C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Examplevb\obj\Debug\Examplevb.dll
+C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Examplevb\obj\Debug\Examplevb.xml
+C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Examplevb\obj\Debug\Examplevb.pdb

@@ -1,0 +1,2 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<DEFECTS><DEFECT><SFA><FILEPATH>c:\users\s4lsalsoft\desktop\sampfix\sharpneedle-master\sharpneedle-master\src\launcher\</FILEPATH><FILENAME>launcher.cpp</FILENAME><LINE>129</LINE><COLUMN>14</COLUMN></SFA><DEFECTCODE>28251</DEFECTCODE><DESCRIPTION>Inconsistent annotation for 'WinMain': this instance has no annotations. See c:\program files\windows kits\8.1\include\um\winbase.h(905). </DESCRIPTION><FUNCTION>WinMain</FUNCTION><DECORATED>WinMain@16</DECORATED><FUNCLINE>129</FUNCLINE><PATH/></DEFECT></DEFECTS>

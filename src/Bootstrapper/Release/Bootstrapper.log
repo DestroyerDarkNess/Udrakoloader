@@ -1,0 +1,17 @@
+﻿Build started 25/10/2020 15:51:23.
+     1>Project "C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\src\Bootstrapper\Bootstrapper.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /sdl /O2 /Oi /Oy- /GL /D CODE_ANALYSIS /D WIN32 /D NDEBUG /D _WINDOWS /D _USRDLL /D VENOM_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc120.pdb" /Gd /TP /analyze /errorReport:prompt   /analyze:quiet Bootstrapper.cpp
+         Bootstrapper.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Release\Bootstrapper.dll" /INCREMENTAL:NO /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Release\Bootstrapper.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Release\Bootstrapper.lib" /MACHINE:X86 /SAFESEH /DLL Release\Bootstrapper.obj
+         Release\dllmain.obj
+            Creating library C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Release\Bootstrapper.lib and object C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Release\Bootstrapper.exp
+         Generating code
+         Finished generating code
+         Bootstrapper.vcxproj -> C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\Release\Bootstrapper.dll
+     1>Done Building Project "C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\src\Bootstrapper\Bootstrapper.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:17.39

@@ -1,0 +1,16 @@
+﻿Build started 24/10/2020 5:53:34.
+     1>Project "C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\src\Bootstrapper\Bootstrapper.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D _USRDLL /D VENOM_EXPORTS /D _WINDLL /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\Bootstrapper.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Bootstrapper.cpp
+         Bootstrapper.cpp
+       Link:
+         C:\Program Files\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\bin\Debug\Bootstrapper.dll" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\bin\Debug\Bootstrapper.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\bin\Debug\Bootstrapper.lib" /MACHINE:X86 /DLL Debug\Bootstrapper.obj
+         Debug\dllmain.obj
+         LINK : C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\bin\Debug\Bootstrapper.dll not found or not built by the last incremental link; performing full link
+            Creating library C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\bin\Debug\Bootstrapper.lib and object C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\bin\Debug\Bootstrapper.exp
+         Bootstrapper.vcxproj -> C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\bin\Debug\Bootstrapper.dll
+     1>Done Building Project "C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\src\Bootstrapper\Bootstrapper.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.71

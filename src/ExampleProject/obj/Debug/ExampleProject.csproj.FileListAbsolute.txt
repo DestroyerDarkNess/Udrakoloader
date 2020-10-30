@@ -1,0 +1,5 @@
+C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\bin\Debug\ExampleProject.dll
+C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\bin\Debug\ExampleProject.pdb
+C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\src\ExampleProject\obj\Debug\ExampleProject.csprojResolveAssemblyReference.cache
+C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\src\ExampleProject\obj\Debug\ExampleProject.dll
+C:\Users\S4Lsalsoft\Desktop\SAMPfix\SharpNeedle-master\SharpNeedle-master\src\ExampleProject\obj\Debug\ExampleProject.pdb
