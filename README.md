@@ -1,6 +1,7 @@
 # UdrakoLoader
 ![passing](https://img.shields.io/badge/build-passing-brightgreen) 
 
+- **This is deprecated, please use:** [NETBuilderInjection](https://github.com/DestroyerDarkNess/NETBuilderInjection)
 
 <img align="left" width="300" height="110" src="https://i.ibb.co/jrrCpd6/Udraco-Loader.png">
 
